@@ -62,9 +62,9 @@ int *arr(int s_arr, int e_arr, int size)
         	return (NULL);
     	}
 	i = 0;
-	if (s_arr <= e_arr)
+	if (s_arr < e_arr)
 	{	
-		while (i <= size)
+		while (i < size)
 		{
 			ret[i] = s_arr;
 			s_arr++;
@@ -73,7 +73,7 @@ int *arr(int s_arr, int e_arr, int size)
 	}
 	else
 	{
-		while(i <= size)
+		while(i < size)
 		{
 			ret[i] = e_arr;
 			e_arr++;
