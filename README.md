@@ -7,4 +7,5 @@ O programa irá passar retorno caso a entrada esteja fora do padrão, ou caso n�
 <p>
 
 O código no replit: https://replit.com/@kaluanamba/Intelitrader
+Linkedin: https://www.linkedin.com/in/kaluanabarcelos/
 </p>
