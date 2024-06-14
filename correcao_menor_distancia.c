@@ -25,8 +25,7 @@ int	*sort(int *arr, int size)
 		arr[i] = swap;
 		i++;
 	}
-	i = 0;
-		return(arr);
+	return(arr);
 }
 
 /*Verificar menor distancia*/
